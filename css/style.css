@@ -1,15 +1,4 @@
 /*
-header
-*/
-header {
-	background-color: white;
-}
-
-header img {
-	height: 30%;
-}
-
-/*
 body
 */
 
@@ -25,24 +14,6 @@ body {
 
 a {
 	color: #f140bc;
-}
-
-form {
-	text-align: right;
-	margin-left: 10%;
-	margin-right: 10%;
-	color: white;
-}
-
-form img {
-	width: 50%;
-	margin-right: 10%;
-	float: left;
-	margin-bottom: 40px;
-}
-
-small {
-	font-size: 9px;
 }
 
 /*headings*/
